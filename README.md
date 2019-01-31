@@ -4,5 +4,5 @@
 ### Projects!
 
 - Terminal_blog
-Will be updated soon!!!!
+Will be updated soon!!!!!!!
 
